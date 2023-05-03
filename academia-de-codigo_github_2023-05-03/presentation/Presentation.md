@@ -183,7 +183,7 @@ with any styles you want
 
 ---
 
-By writing a CV in markdown, you can write all about youand customize the looks of it or pick any medium to share it (like a website)
+By writing a CV in markdown, you can write all about you and customize the looks of it or pick any medium to share it (like a website)
 
 ---
 
