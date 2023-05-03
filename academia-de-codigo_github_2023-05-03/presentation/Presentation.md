@@ -2,6 +2,15 @@
 
 ---
 
+## Who am I
+
+- I was in Academia de Código, 5th bootcamp, end of 2016
+- Full stack: Web, Backend, Mobile apps and now AI apps
+- I develop products from scratch for startups
+- Work as a freelancer
+
+---
+
 ## What is Git
 ---
 
@@ -275,6 +284,17 @@ This method of describing machines is called **infrastructure-as-code**
 
 ---
 
+Always document how to run your project.
+Use screenshots and pictures if possible.
+
+---
+
+Add licenses to your project
+
+<https://choosealicense.com/>
+
+---
+
 Even better would be to setup a _CI_, and have your project available in a public URL or deployed as a dependency, ready to be used.
 
 Look into **Github Actions**
@@ -373,5 +393,5 @@ Use Github for mindless scrolling (better than the drama of conventional social 
 Thank you.
 
 Ask me questions
-Add me on Linkedin (Bartolomeu Rodrigues)
+Add me on Linkedin: [Bartolomeu Rodrigues](https://www.linkedin.com/in/bartmr/)
 Send me your projects
