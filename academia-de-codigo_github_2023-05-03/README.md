@@ -1,0 +1,1 @@
+The presentation is to be read using [Obsidian](https://obsidian.md/) 
