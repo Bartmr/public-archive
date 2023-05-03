@@ -187,7 +187,7 @@ By writing a CV in markdown, you can write all about you and customize the looks
 
 ---
 
-![[Pasted image 20230503130157.png]]
+![[john-gruber-and-aaron-swartz-photo-from-wiki.png]]
 
 ---
 
