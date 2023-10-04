@@ -342,7 +342,7 @@ Texto é quase multimodal e pode reproduzir tudo
 
 ---
 
-Text é conhecimento
+Texto é conhecimento
 
 Texto consegue construir imagens (SVGs, PDFs, 3D, etc...)
 
