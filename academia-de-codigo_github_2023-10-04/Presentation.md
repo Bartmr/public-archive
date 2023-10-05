@@ -6,7 +6,7 @@
 
 - Fiz o 5º bootcamp da Academia de Código em 2016
 - Full-stack developer: backend, frontend e integração de AI
-- Construo productos do zero para startups
+- Construo produtos do zero para startups
 - Trabalho como freelancer
 
 ---
@@ -35,7 +35,7 @@ Quando criam um novo branch, estão a começar uma nova pilha de envelopes, por 
 
 ---
 
-Quando chama  `git push`, estão a enviar os envelopes que acabaram de selar para a pilha gigante de envelopers que existe na vossa empresa.
+Quando chamam  `git push`, estão a enviar os envelopes que acabaram de selar para a pilha gigante de envelopers que existe na vossa empresa.
 
 ![[git-push.jpeg|300]]
 
