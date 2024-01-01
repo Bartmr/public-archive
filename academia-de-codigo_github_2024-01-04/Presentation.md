@@ -17,7 +17,7 @@
 
 O git é uma pilha de envelopes, empilhados por tempo, que contêm todas as alterações que ocorreram num projecto desde que começou.
 
-![[envelopes.png|400]]
+![[envelopes.jpg|400]]
 
 ---
 
@@ -27,7 +27,7 @@ Quando fazem `git add .`, é como se estivessem a descrever ao Git o que mudou n
 
 Quando fazem `git commit`, estão a colocar essas mudanças todas num envelope, e a selá-lo com um carimbo único.
 
-![[stamping-envelopes.png|400]]
+![[stamping-envelopes.jpg|400]]
 
 ---
 
