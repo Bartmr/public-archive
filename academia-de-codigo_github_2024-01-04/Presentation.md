@@ -478,6 +478,10 @@ Mas lembra-te de não divulgar informação confidencial! Partilha problemas esp
 
 ---
 
+#### É muito importante entregar valor no primeiro contacto
+
+---
+
 Exemplo: https://github.com/yldio
 
 ---
