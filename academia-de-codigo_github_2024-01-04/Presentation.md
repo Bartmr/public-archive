@@ -5,7 +5,7 @@
 ## Quem sou eu
 
 - Fiz o 5º bootcamp da Academia de Código em 2016
-- Full-stack developer: backend, frontend e integração de AI
+- Full-stack developer: backend, frontend, mobile e integração de AI
 - Construo produtos do zero para startups
 - Trabalho como freelancer
 - Tech Lead em part-time
@@ -49,7 +49,7 @@ graph BT
 
 Quando chamam  `git push`, estão a enviar os envelopes que acabaram de selar para a pilha gigante de envelopers que existe na vossa empresa.
 
-![[git-push.jpeg|300]]
+![[git-push.jpeg|400]]
 
 ---
 
@@ -189,10 +189,6 @@ Esta é uma das maneiras de vocês mostrarem a vossa própria atividade e maneir
 
 ---
 
-Exemplo: <https://github.com/Bartmr/be-in-public>
-
----
-
 ### Markdown
 
 ---
@@ -235,7 +231,19 @@ Excelentes para automatizar coisas rapidamente e sem grande planeamento.
 
 ---
 
-Example: <https://github.com/Bartmr/be-in-public/tree/main/core/git>
+```bash
+#!/bin/bash
+set -eou pipefail
+
+cities=("Lisbon" "Porto" "Vila Nova de Gaia" "Amadora" "Braga" "Funchal" "Coimbra" "Setúbal" "Almada" "Agualva-Cacém")
+
+for city in "${cities[@]}"
+do
+	echo "Weather in $city:"
+	curl -s "wttr.in/$city?format=%C+%t+%w"
+	echo "-------------------------------------"
+done
+```
 
 ---
 
@@ -293,7 +301,10 @@ Reforcem estas práticas ao usar um ficheiro `.gitignore`
 
 ---
 
-Tenham o vosso produto pronto a ser consumido
+Tenham o vosso produto pronto a ser consumido:
+- site ou URL para consumo imediato
+- configuração fácil para quem queira correr uma versão própria
+- screenshots no README
 
 ---
 
@@ -568,6 +579,10 @@ Assim que tiveres valor comprovado no teu Github, activa a versão Pro para pode
 Purple Cow por Seth Godin
 
 ![[purple-cow.jpg|300]]
+
+---
+
+https://docs.google.com/spreadsheets/d/1ZiqFdQhGNlX5QIbsuqOjxAvd8f-EJDmuCi-BXDMdE6A/edit#gid=0
 
 ---
 
