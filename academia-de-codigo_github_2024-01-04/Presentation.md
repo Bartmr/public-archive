@@ -8,6 +8,7 @@
 - Full-stack developer: backend, frontend e integração de AI
 - Construo produtos do zero para startups
 - Trabalho como freelancer
+- Tech Lead em part-time
 
 ---
 
@@ -33,6 +34,17 @@ Quando fazem `git commit`, estão a colocar essas mudanças todas num envelope, 
 
 Quando criam um novo branch, estão a começar uma nova pilha de envelopes, por cima da pilha original.
 
+```mermaid
+graph BT
+	A --> B
+	
+	A --> E
+	
+	B --> C
+	
+	C --> D
+```
+
 ---
 
 Quando chamam  `git push`, estão a enviar os envelopes que acabaram de selar para a pilha gigante de envelopers que existe na vossa empresa.
@@ -41,7 +53,7 @@ Quando chamam  `git push`, estão a enviar os envelopes que acabaram de selar pa
 
 ---
 
-Um repositório git não é mais do que a soma de todas as mudanças que ocorreram desde que o repositório foi criado.
+Um repositório git não é mais do que a **soma de todas as mudanças que ocorreram** desde que o repositório foi criado.
 
 ---
 
@@ -57,7 +69,7 @@ autor: alguém na Internet
 
 ---
 
-### Porquê ter um perfil no Github
+## Porquê ter um perfil no Github
 
 ---
 
@@ -73,7 +85,7 @@ As pessoas responsáveis por contratações não vão ao Github, e mesmo que est
 
 ---
 
-O Github foi feito para descobrir projectos, não pessoas.
+O Github foi feito para **descobrir** e **utilizar** projectos, não pessoas.
 
 ---
 
@@ -330,7 +342,11 @@ Deêm uma vista de olhos às **Github Actions**, a **CI** do Github
 
 ---
 
-## Como usar o Github como segundo cérebro
+Exemplo: https://github.com/n8n-io/n8n
+
+---
+
+## Texto como receita para tudo
 
 ---
 
@@ -418,7 +434,7 @@ Usem o Github como substituto para scrolling infinito nas redes sociais convenci
 
 Os layoffs deram uma sensação de poder a muitos empregadores.
 
-Muitas entrevistas passaram a ter muitas fases, em que o instinto de quem é responsável pela contratação é considerado o equivalente a escrutínio.
+Muitas entrevistas passaram a ter muitas fases, em que o instinto de quem é responsável pela contratação é considerado como apenas escrutínio.
 
 ---
 ### Solução 1: trata-te a ti mesmo como um produto / serviço
@@ -434,6 +450,7 @@ O lado do comprador deve ter:
 - uma maneira fácil de testar o que tu fazes (Github)
 - uma maneira fácil de marcar uma chamada inicial (Calendly)
 - uma maneira rápida de te contratar (prepara bem os teus objectivos, o que procuras e o que queres evitar)
+
 ---
 ### Solução 2: relações mais pessoais
 
@@ -478,11 +495,19 @@ Mas lembra-te de não divulgar informação confidencial! Partilha problemas esp
 
 ---
 
+#### Google Dorks
+
+`site:github.com "critical techworks"`
+`site:github.com "@ critical techworks"`
+
+---
 #### É muito importante entregar valor no primeiro contacto
 
 ---
 
-Exemplo: https://github.com/yldio
+Exemplos: 
+- https://github.com/yldio
+- https://github.com/callstack/
 
 ---
 ### Solução 4:  escolhe um sector e faz as coisas parecerem fáceis
@@ -528,6 +553,13 @@ Acompanha tendências com sites como [Gartner](https://www.gartner.com/), [Hacke
 ---
 
 Com o passar do tempo, vão deixar de depender tanto do vosso Github, e mais das relações pessoais que desenvolveram durante a vossa carreira.
+
+---
+## Protege-te
+
+Assim que tiveres valor comprovado no teu Github, activa a versão Pro para poderes ativar **branch protection**.
+
+**Branch protection** impede-te a ti e ao malware no teu computador de apagar conteúdo e o seu histórico no Github.
 
 ---
 
